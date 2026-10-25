@@ -1,0 +1,16 @@
+
+.container{
+    /* width: 500px !important; */
+    height: 700px !important;
+}
+.keys{
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    margin-bottom: 0 !important;
+    margin-top: 50px;
+}
+.screen{
+    height: 90px !important;
+    margin-top: 35px;
+    font-size: 32px;
+}
