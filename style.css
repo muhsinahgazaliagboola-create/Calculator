@@ -1,7 +1,7 @@
 
 .container{
     /* width: 500px !important; */
-    height: 500px !important;
+    height: 700px !important;
 }
 .keys{
     grid-template-columns: repeat(4, 1fr);
