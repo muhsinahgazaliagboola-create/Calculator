@@ -19,6 +19,13 @@
     .container{
     width: 90% !important;
     height: 700px !important;
+    background-color: black;
+}
+.a{
+    background-color: rgba(128, 128, 128, 0.45);
+}
+.b{
+    background-color: grey;
 }
 .keys{
     grid-template-columns: repeat(4, 1fr);
